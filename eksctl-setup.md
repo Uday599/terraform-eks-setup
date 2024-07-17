@@ -12,10 +12,8 @@ curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
 sudo installer -pkg AWSCLIV2.pkg -target /
 ```
 
-    2.  Configure the AWS CLI:
-```
-aws configure
-```
+    2.  Configure the AWS CLI:  aws configure
+
 
     3.  Install eksctl:
 
